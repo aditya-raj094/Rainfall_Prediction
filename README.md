@@ -68,7 +68,6 @@ This project uses historical rainfall data across Indian states and districts to
 
 ## 🚀 Future Enhancements
 
-- Add **regression model** to predict exact rainfall amount (in mm)  
 - Integrate **live rainfall data APIs** for real-time forecasting  
 - Build an **interactive map dashboard** using Plotly or Folium for spatial insights  
 - Expand model to include **external climate features** (humidity, temperature, wind)  
