@@ -1,4 +1,4 @@
-# 🌧️ Rainfall Prediction in India (1901–2015)
+# 🌧️ Rainfall Prediction in India 
 
 This project uses historical rainfall data across Indian states and districts to classify annual rainfall levels (High or Low) using a machine learning model. The goal is to explore rainfall patterns and predict categories based on monthly inputs.
 
