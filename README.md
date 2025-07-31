@@ -61,8 +61,7 @@ This project uses historical rainfall data across Indian states and districts to
 
 - Dealing with **missing values** and inconsistencies in raw rainfall data  
 - **Categorizing continuous data** (rainfall in mm) into meaningful labels like *High* and *Low*  
-- Handling **imbalanced data** between categories in certain time spans  
-- Resolving **Seaborn future warnings** related to palette and hue usage  
+- Handling **imbalanced data** between categories in certain time spans   
 - Managing file paths across local and deployment environments
 
 ---
