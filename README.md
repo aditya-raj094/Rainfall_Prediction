@@ -16,11 +16,11 @@ This project uses historical rainfall data across Indian states and districts to
 
 ## ⚙️ Technologies Used
 
-- **Programming Language:** Python 3.x  
+- **Programming Language:** Python  
 - **Data Manipulation:** Pandas, NumPy  
 - **Data Visualization:** Matplotlib, Seaborn  
 - **Machine Learning:** Scikit-learn (RandomForestClassifier)  
-- **Notebook & App:** Jupyter Notebook, Streamlit
+- **Notebook & App:** Jupyter Notebook
 
 ---
 
